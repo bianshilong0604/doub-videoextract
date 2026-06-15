@@ -1,4 +1,4 @@
-# videoextract
+# douB-videoextract
 
 > 智能视频/图文内容提取与 AI 总结工具
 > A Python CLI to extract content from Douyin / Bilibili and generate detailed AI summaries.
