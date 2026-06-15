@@ -1,0 +1,17 @@
+{
+  "ai_api": {
+    "api_key": "YOUR_API_KEY_HERE",
+    "base_url": "https://api.deepseek.com/v1",
+    "model": "deepseek-chat"
+  },
+  "transcribe": {
+    "enabled": false,
+    "method": "auto",
+    "whisper_model": "base",
+    "language": "zh"
+  },
+  "output": {
+    "dir": "./output",
+    "format": "markdown"
+  }
+}
